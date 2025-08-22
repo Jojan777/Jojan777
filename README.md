@@ -24,7 +24,7 @@ Hi 👋! My name is Johan, A passionate frontend and backend developer, from Col
 <div align="left">
 </div>
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jsrdxd4jfhayd3fmyir5w5fyle&count=4">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31gsvv6sksehl6emk2lhausjkzym&unique=">
 </p>
 
 <div align="center">
